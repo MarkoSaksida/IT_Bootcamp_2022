@@ -1,0 +1,5 @@
+# Project exclude paths
+.idea/
+/out/
+/target/
+IT_Bootcamp_2022.iml
